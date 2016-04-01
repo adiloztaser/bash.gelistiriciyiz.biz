@@ -9,7 +9,7 @@ author:
  bio: "Özgür Yazılım"
 ---
 Gün içerisinde kullanmaktan en fazla hoşlandığım olay aslında bu. Bir projede
-dizinler içinde kaybolduğum zamanlarda geldiğim dizine (genellikle kök dizine) dönmek.
+dizinler içinde kaybolduğum zamanlarda geldiğim dizine (genellikle kök dizine) dönmek.READ_MORE
 
 Bu iş için kullandığımız komutta aslında bildiğimiz change directory (cd) komutu. ```cd -```
 
